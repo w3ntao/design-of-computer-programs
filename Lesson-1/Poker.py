@@ -11,7 +11,7 @@ def allmax(iterable, key):
     		result.append(hand)
     return result
 
-count_rankings = {(4,1):7, (3,2):6, (3,1,1):3, (2,2,1):2, (2,1,1,1):1, (1,1,1,1,1):0}
+count_rankings = {(5,):10, (4,1):7, (3,2):6, (3,1,1):3, (2,2,1):2, (2,1,1,1):1, (1,1,1,1,1):0}
 
 def hand_rank(hand):
     "Return a value indicating the ranking of a hand."
