@@ -11,7 +11,6 @@
 
 from functools import update_wrapper
 
-
 def decorator(d):
 	"Make function d a decorator: d wraps a function fn."
 	def _d(fn):
@@ -30,15 +29,9 @@ def trace(f):
 			result = f(*args)
 			print '%s<-- %s == %s' % ((trace.level-1)*indent, signature, result)
 		finally:
-			k=0
 			trace.level -= 1
 		return result
-		'''
-		result = f(*args)
-		print '%s<-- %s == %s' % ((trace.level-1)*indent, signature, result)
-		trace.level -= 1
-		return result
-		'''
+
 	trace.level = 0
 	return _f
 
@@ -49,4 +42,4 @@ def fib(n):
 	else:
 		return fib(n-1) + fib(n-2)
 
-fib(6) #running this in the browser's IDE  will not display the indentations!
+fib(6)
