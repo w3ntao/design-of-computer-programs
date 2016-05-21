@@ -52,6 +52,8 @@ def bridge_problem(here):
 				frontier.sort(key=elapsed_time)
 	return Fail
 
+Fail = []
+
 def path_states(path):
 	"Return a list of states in this path."
 	return path[0::2]
