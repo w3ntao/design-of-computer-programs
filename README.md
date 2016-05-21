@@ -50,3 +50,4 @@ Udacity CS212: [Design-of-computer-programs
 3. [paths_actions_states.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_4/paths_actions_states.py)
 4. [modify_code.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_4/modify_code.py)
 5. [add_test.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_4/add_test.py)
+6. [refactoring_paths.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_4/refactoring_paths.py)
