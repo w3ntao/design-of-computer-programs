@@ -34,4 +34,5 @@ def test():
 	assert bcost((3, 10, '<-'),) == 10
 	return 'tests pass'
 
-print test()
+if __name__ == '__main__':
+	print test()

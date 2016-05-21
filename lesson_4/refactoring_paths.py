@@ -67,4 +67,6 @@ def test():
 			(frozenset([2]), frozenset([1, 3, 'light'])): (1, 1, '->'),
 			(frozenset([]), frozenset([1, 2, 3, 'light'])): (2, 1, '->')}
 	return 'tests pass'
-print test()
+
+if __name__ == '__main__':
+	print test()
