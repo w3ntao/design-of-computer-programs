@@ -56,3 +56,4 @@ Udacity CS212: [Design-of-computer-programs
 9. [csuccessors.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_4/csuccessors.py)
 10. [mc_problem.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_4/mc_problem.py)
 11. [sps_function.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_4/sps_function.py)
+12. [cleaning_up_mc_problem.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_4/cleaning_up_mc_problem.py)
