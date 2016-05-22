@@ -53,3 +53,4 @@ Udacity CS212: [Design-of-computer-programs
 6. [refactoring_paths.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_4/refactoring_paths.py)
 7. [calculating_costs.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_4/calculating_costs.py)
 8. [putting_it_together.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_4/putting_it_together.py)
+9. [csuccessors.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_4/csuccessors.py)
