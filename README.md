@@ -54,3 +54,4 @@ Udacity CS212: [Design-of-computer-programs
 7. [calculating_costs.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_4/calculating_costs.py)
 8. [putting_it_together.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_4/putting_it_together.py)
 9. [csuccessors.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_4/csuccessors.py)
+10. [mc_problem.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_4/mc_problem.py)
