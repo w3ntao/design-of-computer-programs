@@ -1,6 +1,11 @@
 Udacity CS212: [Design-of-computer-programs
 ](https://www.udacity.com/course/design-of-computer-programs--cs212).
 
+###Usage
+```
+$ python file_name.py
+```
+
 ###Lesson 1
 1. [poker.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_1/poker.py)
 
@@ -57,3 +62,4 @@ Udacity CS212: [Design-of-computer-programs
 10. [mc_problem.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_4/mc_problem.py)
 11. [sps_function.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_4/sps_function.py)
 12. [cleaning_up_mc_problem.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_4/cleaning_up_mc_problem.py)
+13. [back_to_bridge_problem.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_4/back_to_bridge_problem.py)
