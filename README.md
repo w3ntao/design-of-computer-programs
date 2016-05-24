@@ -63,3 +63,6 @@ $ python file_name.py
 11. [sps_function.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_4/sps_function.py)
 12. [cleaning_up_mc_problem.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_4/cleaning_up_mc_problem.py)
 13. [back_to_bridge_problem.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_4/back_to_bridge_problem.py)
+
+###Problem set 4
+1. [refactoring_bsuccessors.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/problem_set_4/refactoring_bsuccessors.py)
