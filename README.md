@@ -12,7 +12,7 @@ $ python file_name.py
 ###Andy's corner 1
 1. [list_comprehensions.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/andy's_corner_1/list_comprehensions.py)
 
-###Prolbem set 1
+###Problem set 1
 1. [seven_card_stud.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/problem_set_1/seven_card_stud.py)
 2. [jokers_wild.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/problem_set_1/jokers_wild.py)
 
@@ -45,7 +45,7 @@ $ python file_name.py
 15. [trace_tool.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_3/trace_tool.py)
 16. [speedy_parsing.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_3/speedy_parsing.py)
 
-###Prolbem set 3
+###Problem set 3
 1. [json_parser.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/problem_set_3/json_parser.py)
 2. [inverse_function.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/problem_set_3/inverse_function.py)
 
