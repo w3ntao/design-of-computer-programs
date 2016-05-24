@@ -9,10 +9,10 @@ $ python file_name.py
 ###Lesson 1
 1. [poker.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_1/poker.py)
 
-###Andy's corner 1
+###Andy's Corner 1
 1. [list_comprehensions.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/andy's_corner_1/list_comprehensions.py)
 
-###Problem set 1
+###Problem Set 1
 1. [seven_card_stud.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/problem_set_1/seven_card_stud.py)
 2. [jokers_wild.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/problem_set_1/jokers_wild.py)
 
@@ -22,7 +22,7 @@ $ python file_name.py
 3. [cryptarithmetic.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_2/cryptarithmetic.py)
 4. [compile_word.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_2/compile_word.py)
 
-###Problem set 2
+###Problem Set 2
 1. [no_leading_zeros.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/problem_set_2/no_leading_zeros.py)
 2. [floor_puzzle.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/problem_set_2/floor_puzzle.py)
 3. [subpalindrome.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/problem_set_2/subpalindrome.py)
@@ -45,7 +45,7 @@ $ python file_name.py
 15. [trace_tool.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_3/trace_tool.py)
 16. [speedy_parsing.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_3/speedy_parsing.py)
 
-###Problem set 3
+###Problem Set 3
 1. [json_parser.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/problem_set_3/json_parser.py)
 2. [inverse_function.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/problem_set_3/inverse_function.py)
 
@@ -64,5 +64,5 @@ $ python file_name.py
 12. [cleaning_up_mc_problem.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_4/cleaning_up_mc_problem.py)
 13. [back_to_bridge_problem.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_4/back_to_bridge_problem.py)
 
-###Problem set 4
+###Problem Set 4
 1. [refactoring_bsuccessors.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/problem_set_4/refactoring_bsuccessors.py)
