@@ -35,24 +35,24 @@ def more_pour_problem(capacities, goal, start=None):
 		def __fill(i):
 			new_state = list(state)
 			new_state[i] = capacities[i]
-			return type(state)(new_state)
+			return tuple(new_state)
 
 		def __empty(i):
 			new_state = list(state)
 			new_state[i] = 0
-			return type(state)(new_state)
+			return tuple(new_state)
 
 		def __pour(i, k):
 			new_state = list(state)
 			trans_amount = min(state[i], capacities[k] - state[k])
 			new_state[i] -= trans_amount
 			new_state[k] += trans_amount
-			return type(state)(new_state)
+			return tuple(new_state)
 
 		indices = range(len(state))
-		fill_set  = { __fill(i):  ("fill", i)  for i in indices }
-		empty_set = { __empty(i): ("empty", i) for i in indices }
-		pour_set  = { __pour(i, k): ("pour", i, k) for i in indices for k in indices }
+		fill_set  = {__fill(i):  ("fill", i)  for i in indices}
+		empty_set = {__empty(i): ("empty", i) for i in indices}
+		pour_set  = {__pour(i, k): ("pour", i, k) for i in indices for k in indices}
 
 		return dict(list(fill_set.items()) + list(empty_set.items()) + list(pour_set.items()))
 
