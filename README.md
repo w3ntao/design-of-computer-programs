@@ -73,3 +73,4 @@ $ python file_name.py
 1. [hold_and_roll.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_5/hold_and_roll.py)
 2. [clueless.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_5/clueless.py)
 3. [hold_at_strategy.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_5/hold_at_strategy.py)
+4. [play_pig.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_5/play_pig.py)
