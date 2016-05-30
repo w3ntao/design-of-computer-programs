@@ -75,3 +75,4 @@ $ python file_name.py
 3. [hold_at_strategy.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_5/hold_at_strategy.py)
 4. [play_pig.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_5/play_pig.py)
 5. [loading_the_dice.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_5/loading_the_dice.py)
+6. [game_theory.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_5/game_theory.py)
