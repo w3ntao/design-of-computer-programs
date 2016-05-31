@@ -77,3 +77,4 @@ $ python file_name.py
 5. [loading_the_dice.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_5/loading_the_dice.py)
 6. [game_theory.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_5/game_theory.py)
 7. [maxwins.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_5/maxwins.py)
+8. [maximizing_differential.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_5/maximizing_differential.py)
