@@ -80,3 +80,4 @@ $ python file_name.py
 8. [maximizing_differential.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_5/maximizing_differential.py)
 9. [legal_actions.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_5/legal_actions.py)
 10. [using_tools.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_5/using_tools.py)
+11. [telling_a_story.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_5/telling_a_story.py)
