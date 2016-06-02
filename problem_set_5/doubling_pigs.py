@@ -31,13 +31,11 @@ def pig_actions_d(state):
 	# for the moment at which one player has doubled and is waiting
 	# for the other to accept or decline
 	(p, me, you, pending, double) = state
-	if double == "double":
-		return ['accept', 'decline']
+	if double == "double": return ['accept', 'decline']
+
 	actions = ["roll"]
-	if pending:
-		actions += ["hold"]
-	if double is 1:
-		actions += ["double"]
+	if pending:     actions += ["hold"]
+	if double is 1: actions += ["double"]
 	return actions
 
 def strategy_d(state):
