@@ -54,7 +54,7 @@ def Q_pig(state, action, Pwin):
 		return 1 - Pwin(hold(state))
 	if action == 'roll':
 		return (1 - Pwin(roll(state, 1))
-				+ sum(Pwin(roll(state, d)) for d in (2,3,4,5,6))) / 6.
+				+ sum(Pwin(roll(state, d)) for d in (2,3,4,5,6))) / 6.0
 	raise ValueError
 
 def best_action(state, actions, Q, U):
