@@ -85,3 +85,4 @@ $ python file_name.py
 
 ###Problem Set 5
 1. [improving_optimal.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/problem_set_5/improving_optimal.py)
+2. [doubling_pigs.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/problem_set_5/doubling_pigs.py)
