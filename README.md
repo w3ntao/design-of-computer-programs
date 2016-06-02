@@ -82,3 +82,6 @@ $ python file_name.py
 10. [using_tools.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_5/using_tools.py)
 11. [telling_a_story.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_5/telling_a_story.py)
 12. [conditional_probability.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/lesson_5/conditional_probability.py)
+
+###Problem Set 5
+1. [improving_optimal.py](https://github.com/xRahn/Udacity-Design-of-Computer-Programs/blob/master/problem_set_5/improving_optimal.py)
