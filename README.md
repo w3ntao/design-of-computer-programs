@@ -87,3 +87,6 @@ $ python file_name.py
 1. [improving_optimal.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/problem_set_5/improving_optimal.py)
 2. [doubling_pigs.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/problem_set_5/doubling_pigs.py)
 3. [foxes_and_hens.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/problem_set_5/foxes_and_hens.py)
+
+###Lesson 6
+1. [readwordlist.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/readwordlist.py) [words4k.txt](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/words4k.txt)
