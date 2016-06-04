@@ -90,3 +90,4 @@ $ python file_name.py
 
 ###Lesson 6
 1. [readwordlist.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/readwordlist.py) [words4k.txt](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/words4k.txt)
+2. [extend_prefix.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/extend_prefix.py)
