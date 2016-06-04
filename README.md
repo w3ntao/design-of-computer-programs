@@ -94,3 +94,4 @@ $ python file_name.py
 3. [adding_suffixes.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/adding_suffixes.py)
 4. [longest_words.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/longest_words.py)
 5. [word_score.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/word_score.py)
+6. [top_n_hands.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/top_n_hands.py)
