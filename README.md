@@ -95,3 +95,4 @@ $ python file_name.py
 4. [longest_words.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/longest_words.py)
 5. [word_score.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/word_score.py)
 6. [top_n_hands.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/top_n_hands.py)
+7. [increasing_efficiency.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/increasing_efficiency.py)
