@@ -101,3 +101,4 @@ $ python file_name.py
 10. [all_plays.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/all_plays.py)
 11. [making_the_board.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/making_the_board.py)
 12. [making_plays.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/making_plays.py)
+13. [best_play.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/best_play.py)
