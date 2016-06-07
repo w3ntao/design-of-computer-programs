@@ -96,3 +96,4 @@ $ python file_name.py
 5. [word_score.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/word_score.py)
 6. [top_n_hands.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/top_n_hands.py)
 7. [increasing_efficiency.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/increasing_efficiency.py)
+8. [show_and_spell.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/show_and_spell.py)
