@@ -100,3 +100,4 @@ $ python file_name.py
 9. [horizontal_plays.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/horizontal_plays.py)
 10. [all_plays.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/all_plays.py)
 11. [making_the_board.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/making_the_board.py)
+12. [making_plays.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/making_plays.py)
