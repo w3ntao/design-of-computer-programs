@@ -97,3 +97,4 @@ $ python file_name.py
 6. [top_n_hands.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/top_n_hands.py)
 7. [increasing_efficiency.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/increasing_efficiency.py)
 8. [show_and_spell.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/show_and_spell.py)
+9. [horizontal_plays.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/lesson_6/horizontal_plays.py)
