@@ -107,3 +107,6 @@ $ python file_name.py
 1. [anagrams.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/problem_set_6/anagrams.py) [words4k.txt](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/problem_set_6/words4k.txt)
 2. [blank_tiles.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/problem_set_6/blank_tiles.py) [words4k.txt](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/problem_set_6/words4k.txt)
 3. [Boggle.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/problem_set_6/blank_tiles.py) [words4k.txt](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/problem_set_6/words4k.txt)
+
+###Practice exam
+1. [bowling.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/practice_exam/bowling.py)
