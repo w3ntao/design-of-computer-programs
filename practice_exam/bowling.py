@@ -58,7 +58,7 @@ def test_bowling():
 	assert 200 == bowling([10, 5,5] * 5 + [10])
 	assert  11 == bowling([0,0] * 9 + [10, 1, 0])
 	assert  12 == bowling([0,0] * 8 + [10, 1, 0])
-	return True
+	return "tests pass"
 
 if __name__ == '__main__':
 	print test_bowling()
