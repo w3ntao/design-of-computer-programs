@@ -111,3 +111,4 @@ $ python file_name.py
 ###Practice exam
 1. [bowling.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/practice_exam/bowling.py)
 2. [logic_puzzle.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/practice_exam/logic_puzzle.py)
+3. [polynomials.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/practice_exam/polynomials.py)
