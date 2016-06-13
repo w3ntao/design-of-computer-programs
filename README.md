@@ -108,7 +108,7 @@ $ python file_name.py
 2. [blank_tiles.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/problem_set_6/blank_tiles.py) [words4k.txt](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/problem_set_6/words4k.txt)
 3. [Boggle.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/problem_set_6/blank_tiles.py) [words4k.txt](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/problem_set_6/words4k.txt)
 
-###Practice exam
+###Practice Exam
 1. [bowling.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/practice_exam/bowling.py)
 2. [logic_puzzle.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/practice_exam/logic_puzzle.py)
 3. [polynomials.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/practice_exam/polynomials.py)
