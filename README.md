@@ -114,3 +114,4 @@ $ python file_name.py
 3. [polynomials.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/practice_exam/polynomials.py)
 4. [parking_lot_search.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/practice_exam/parking_lot_search.py)
 5. [darts_probability.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/practice_exam/darts_probability.py)
+6. [portmanteau.py](https://github.com/xRahn/Design-of-Computer-Programs/blob/master/practice_exam/portmanteau.py)
