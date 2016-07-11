@@ -2,9 +2,7 @@ Udacity CS212: [Design of Computer Programs
 ](https://www.udacity.com/course/design-of-computer-programs--cs212).
 
 ###Usage
-```
-$ python file_name.py
-```
+	$ python file_name.py
 
 ###Lesson 1
 1. [poker.py](https://github.com/RahnX/Design-of-Computer-Programs/blob/master/lesson_1/poker.py)
