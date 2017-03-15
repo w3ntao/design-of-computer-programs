@@ -1,30 +1,30 @@
 [Udacity CS 212: Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212).
 
-###Usage
+### Usage
 	$ python file_name.py
 
-###Lesson 1
+### Lesson 1
 1. [poker.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_1/poker.py)
 
-###Andy's Corner 1
+### Andy's Corner 1
 1. [list_comprehensions.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/andy's_corner_1/list_comprehensions.py)
 
-###Problem Set 1
+### Problem Set 1
 1. [seven_card_stud.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/problem_set_1/seven_card_stud.py)
 2. [jokers_wild.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/problem_set_1/jokers_wild.py)
 
-###Lesson 2
+### Lesson 2
 1. [zebra_puzzle.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_2/zebra_puzzle.py)
 2. [all_ints.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_2/all_ints.py)
 3. [cryptarithmetic.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_2/cryptarithmetic.py)
 4. [compile_word.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_2/compile_word.py)
 
-###Problem Set 2
+### Problem Set 2
 1. [no_leading_zeros.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/problem_set_2/no_leading_zeros.py)
 2. [floor_puzzle.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/problem_set_2/floor_puzzle.py)
 3. [subpalindrome.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/problem_set_2/subpalindrome.py)
 
-###Lesson 3
+### Lesson 3
 1. [regular_expressions_review.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_3/regular_expressions_review.py)
 2. [matchset.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_3/matchset.py)
 3. [filling_out_the_api.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_3/filling_out_the_api.py)
@@ -42,11 +42,11 @@
 15. [trace_tool.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_3/trace_tool.py)
 16. [speedy_parsing.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_3/speedy_parsing.py)
 
-###Problem Set 3
+### Problem Set 3
 1. [json_parser.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/problem_set_3/json_parser.py)
 2. [inverse_function.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/problem_set_3/inverse_function.py)
 
-###Lesson 4
+### Lesson 4
 1. [pouring_solution.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_4/pouring_solution.py)
 2. [bridge_successors.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_4/bridge_successors.py)
 3. [paths_actions_states.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_4/paths_actions_states.py)
@@ -61,12 +61,12 @@
 12. [cleaning_up_mc_problem.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_4/cleaning_up_mc_problem.py)
 13. [back_to_bridge_problem.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_4/back_to_bridge_problem.py)
 
-###Problem Set 4
+### Problem Set 4
 1. [refactoring_bsuccessors.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/problem_set_4/refactoring_bsuccessors.py)
 2. [more_pour_problem.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/problem_set_4/more_pour_problem.py)
 3. [subway_planning.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/problem_set_4/subway_planning.py)
 
-###Lesson 5
+### Lesson 5
 1. [hold_and_roll.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_5/hold_and_roll.py)
 2. [clueless.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_5/clueless.py)
 3. [hold_at_strategy.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_5/hold_at_strategy.py)
@@ -80,12 +80,12 @@
 11. [telling_a_story.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_5/telling_a_story.py)
 12. [conditional_probability.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_5/conditional_probability.py)
 
-###Problem Set 5
+### Problem Set 5
 1. [improving_optimal.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/problem_set_5/improving_optimal.py)
 2. [doubling_pigs.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/problem_set_5/doubling_pigs.py)
 3. [foxes_and_hens.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/problem_set_5/foxes_and_hens.py)
 
-###Lesson 6
+### Lesson 6
 1. [readwordlist.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_6/readwordlist.py) [words4k.txt](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_6/words4k.txt)
 2. [extend_prefix.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_6/extend_prefix.py)
 3. [adding_suffixes.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_6/adding_suffixes.py)
@@ -100,12 +100,12 @@
 12. [making_plays.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_6/making_plays.py)
 13. [best_play.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/lesson_6/best_play.py)
 
-###Problem Set 6
+### Problem Set 6
 1. [anagrams.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/problem_set_6/anagrams.py) [words4k.txt](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/problem_set_6/words4k.txt)
 2. [blank_tiles.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/problem_set_6/blank_tiles.py) [words4k.txt](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/problem_set_6/words4k.txt)
 3. [Boggle.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/problem_set_6/blank_tiles.py) [words4k.txt](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/problem_set_6/words4k.txt)
 
-###Practice Exam
+### Practice Exam
 1. [bowling.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/practice_exam/bowling.py)
 2. [logic_puzzle.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/practice_exam/logic_puzzle.py)
 3. [polynomials.py](https://github.com/WentaoZero/Design-of-Computer-Programs/blob/master/practice_exam/polynomials.py)
